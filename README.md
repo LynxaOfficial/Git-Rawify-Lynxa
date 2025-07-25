@@ -1,1 +1,0 @@
-# Git-Rawify-Lynxa
